@@ -1,15 +1,15 @@
 {
-    "year": "2377",
+    "year": "2022",
     "serverAddress": "localhost",
-    "serverName": "Node Y56 Intranet",
+    "serverName": "AUERUB Network Node 11",
     "iconName": "Moon-icon.png",
-    "terminalID": "Y56",
+    "terminalID": "N11",
     "defaultUser": {
         "userId": "user",
         "password": "",
-        "userName": "anonymous"
+        "userName": "guest"
     },
-    "randomSeed": true,
+    "randomSeed": false,
     
     "latestKernel": true
 }
