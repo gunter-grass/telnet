@@ -1,7 +1,7 @@
 {
     "filename": "yadolov",
     "filetype": "txt",
-    "location": ["localhost"],
+    "location": ["127.0.0.1", "localhost"],
     "protection": ["ggunter"],
     
     "delayed": false,
