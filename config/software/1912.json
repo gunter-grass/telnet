@@ -1,7 +1,7 @@
 {
     "filename": "1912",
     "filetype": "txt",
-    "location": ["localhost"],
+    "location": ["all"],
     "protection": ["ggunter"],
             
     "delayed": false,
