@@ -2,7 +2,7 @@
     "filename": "1310",
     "filetype": "txt",
     "location": ["localhost"],
-    "protection": ["ggunter"],
+    "protection": false,
     
     "delayed": false,
     "message": [
