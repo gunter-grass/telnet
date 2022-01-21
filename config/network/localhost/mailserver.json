@@ -1,15 +1,15 @@
 [
     {
-        "from": "Traveller",
-        "to": ["8A73B5", "a"],
-        "title": "Do not Open",
-        "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.  Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+        "from": "г-н Наблюдатель",
+        "to": ["ggunter"],
+        "title": "Re: Документация по нашим голубчикам",
+        "body": "Добрый день! Документы по вашему запросу загружены в терминал. Для доступа введите в командной строке название документа (пример: example.txt).  Список документов:  31-07.txt  13-10.txt  19-12.txt"
     },
     {
-        "from": "Software",
-        "to": ["8A73B5", "a"],
-        "title": "undefined",
-        "body": "001100101 011000101 0110 10 01001 01 01110 1001010101"
+        "from": "г-н Царствие",
+        "to": ["ggunter"],
+        "title": "Новое назначение",
+        "body": "В связи с Инцидентом-N10 вы назначаетесь на проект [АКИВ] ведущим исследователем-практиком.  Срок подготовки: рабочая неделя. Не подведите.  -- Бюро"
     },
     {
         "from": "Josephus A. Miller",
