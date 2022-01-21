@@ -1,14 +1,14 @@
 [
     {
-        "userId": "8A73B5",
+        "userId": "ggunter",
         "password": "trustno1",
-        "userName": "Mulder, Fox"
+        "userName": "Günter Glass"
     },
 
     {
-        "userId": "a",
-        "password": "a",
-        "userName": "Mulder, Fox"
+        "userId": "guest",
+        "password": "guest",
+        "userName": "guest"
     },
 
     {
