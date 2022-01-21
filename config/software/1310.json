@@ -4,7 +4,7 @@
     "location": ["localhost"],
     "protection": false,
     
-    "delayed": false,
+    "delayed": 2000,
     "message": [
         "ДАТА ПРОЯВЛЕНИЯ: 09.10.2021"
         "ОБОЗНАЧЕНИЕ ОБЪЕКТА: Содалв"
