@@ -4,7 +4,7 @@
     "location": ["127.0.0.1", "localhost"],
     "protection": ["ggunter"],
             
-    "delayed": 3000,
+    "delayed": false,
     "message": [
       "КАМЕРА 21А",
       "АВТОРИЗАЦИЯ: ГЮНТЕР ГРАСС",
