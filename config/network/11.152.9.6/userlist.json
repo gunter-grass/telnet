@@ -1,0 +1,20 @@
+[
+
+    {
+        "userId": "msguard",
+        "password": "w00f",
+        "userName": "Ms. Guard"
+    },
+
+    {
+        "userId": "admin",
+        "password": "admin",
+        "userName": "root"
+    },
+
+    {
+        "userId": "n",
+        "password": "n",
+        "userName": "debug"
+    }
+]
