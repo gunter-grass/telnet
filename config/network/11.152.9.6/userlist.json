@@ -1,9 +1,21 @@
 [
 
     {
-        "userId": "msguard",
-        "password": "w00f",
-        "userName": "Ms. Guard"
+        "userId": "mo1",
+        "password": "octarine",
+        "userName": "mo1"
+    },
+    
+    {
+        "userId": "mo2",
+        "password": "yellow",
+        "userName": "mo2"
+    },
+    
+    {
+        "userId": "mo3",
+        "password": "green",
+        "userName": "mo3"
     },
 
     {
