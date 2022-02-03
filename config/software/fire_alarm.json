@@ -1,0 +1,13 @@
+{
+    "filename": "fire_alarm",
+    "filetype": "exe",
+    "location": ["11.152.9.6"],
+    "protection": ["admin"],
+            
+    "delayed": false,
+    "message": [
+        "ОШИБКА",
+        "КОМАНДА НЕ МОЖЕТ БЫТЬ АКТИВИРОВАНА",
+        "ПОЖАЛУЙСТА, ОБРАТИТЕСЬ К АДМИНИСТРАТОРУ"
+       ]
+}
