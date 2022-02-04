@@ -5,6 +5,18 @@
         "userName": "Günter Grass"
     },
 
+     {
+        "userId": "ggunter2",
+        "password": "trustno1",
+        "userName": "Günter Grass"
+    },
+    
+     {
+        "userId": "bcatherine",
+        "password": "soulmusic",
+        "userName": "Catherine Blanchett"
+    },
+    
     {
         "userId": "cmichael",
         "password": "07021982",
